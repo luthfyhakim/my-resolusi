@@ -1,0 +1,7 @@
+Rencana Belajar :
+============================
+- Django
+- Laravel
+- React
+- Mongo db
+- Redis
