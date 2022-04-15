@@ -13,5 +13,8 @@ Rencana Belajar :
 - Redis
 - Message broker
 - Docker
+  * container 
+  * docker-cli
 - Kubernetes
+  * cluster
 - Gcp
