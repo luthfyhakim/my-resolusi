@@ -3,14 +3,31 @@ Rencana Belajar :
 - Django
   * oop python
   * python dasar
+
 - Laravel
   * mvc
   * oop php
   * php dasar
+
 - React
-  * Javascript dasar
-  * package manager yarn and npm
+  * Javascript dasar dan oop
+
 - Mongo db
+
+- Redis
+
+- Message broker
+  * RabbitMQ
+  * Kafka
+
+- Mongo db
+
 - Docker
+  * container 
+  * docker-cli
+
 - Kubernetes
+  * cluster
+  * pod
+
 - Gcp
