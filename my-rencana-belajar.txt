@@ -8,5 +8,10 @@ Rencana Belajar :
   * oop php
   * php dasar
 - React
+  * Javascript dasar dan oop
 - Mongo db
 - Redis
+- Message broker
+- Docker
+- Kubernetes
+- Gcp
