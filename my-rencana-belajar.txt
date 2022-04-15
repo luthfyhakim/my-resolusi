@@ -20,6 +20,8 @@ Rencana Belajar :
   * RabbitMQ
   * Kafka
 
+- Mongo db
+
 - Docker
   * container 
   * docker-cli
