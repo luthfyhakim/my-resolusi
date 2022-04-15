@@ -1,7 +1,12 @@
 Rencana Belajar :
 ============================
 - Django
+  * oop python
+  * python dasar
 - Laravel
+  * mvc
+  * oop php
+  * php dasar
 - React
 - Mongo db
 - Redis
