@@ -1,6 +1,8 @@
-My Resolusi
-- Belajar
-- Code
-- Ta'lim
-- Invest
-- Math
+======================
+My Resolusi :
+======================
+  - Belajar
+  - Code
+  - Ta'lim
+  - Invest
+  - Math

@@ -31,3 +31,7 @@ Rencana Belajar :
   * pod
 
 - Gcp
+
+- Blockchain
+  * cryptografy
+  * hashing
